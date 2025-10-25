@@ -43,7 +43,10 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+<img width="1807" height="740" alt="Screenshot 2025-10-25 234417" src="https://github.com/user-attachments/assets/f40d0e9e-a806-4621-aa97-b7da15150da4" />
 
 ## Output
+ <img width="1918" height="931" alt="503803881-72eac18d-d43f-4dc1-90a4-f37bcbda09ba" src="https://github.com/user-attachments/assets/61c8a12c-1b1c-4a4c-a6fc-3f62ed080d05" />
 
 ## Result
+Thus, Three phase full wave rectifier controlled by thyristors is designed and simulated using MATLAB Simulink.
